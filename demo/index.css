@@ -1,0 +1,43 @@
+* {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+body {
+  padding: 20px;
+  font-family: Verdana,Geneva,sans-serif;
+  color: #000;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: normal;
+  padding: 5px;
+}
+
+output {
+  display: inline-block;
+  width: 300px;
+  float: left;
+  background: #f8f8f8;
+  padding: 10px;
+  font-size: 12px;
+  margin-left: 20px;
+}
+
+output:first-child {
+  margin-left: 0;
+}
+
+div {
+  margin: 0 0 20px 0;
+}
+
+button {
+  font-family: Verdana,Geneva,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 5px 10px;
+  cursor: pointer;
+}
