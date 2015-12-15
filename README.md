@@ -1,8 +1,8 @@
 # skyline
 
-> Divide and Conquer algorithm to solve "[The Skyline Problem](http://www.algorithmist.com/index.php/UVa_105)".
+> Divide and conquer algorithm to solve "[The Skyline Problem](http://www.algorithmist.com/index.php/UVa_105)".
 
-<img src="./demo/skyline.png">
+[![The Skyline Problem](./demo/skyline.png "The Skyline Problem")](http://lab.moogs.io/skyline)
 
 # Demo
 
@@ -18,7 +18,7 @@ npm install skyline
 
 Input is a squence of building points: left x-coordinate, height y-coordinate, right x-coordinate.
 
-Output is a sequence of skyline points: x-coordinate, height y-coordinate;
+Output is a sequence of skyline points: left x-coordinate, height y-coordinate;
 
 ```javascript
 const skyline = require('flowright');

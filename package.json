@@ -1,7 +1,7 @@
 {
   "name": "skyline",
   "version": "0.0.1",
-  "description": "Divide and Conquer algorithm to solve \"The Skyline Problem\".",
+  "description": "Divide and conquer algorithm to solve \"The Skyline Problem\".",
   "main": "skyline.js",
   "directories": {
     "test": "test"

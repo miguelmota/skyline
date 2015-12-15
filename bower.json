@@ -6,7 +6,7 @@
   "authors": [
     "Miguel Mota <hello@miguelmota.com>"
   ],
-  "description": "Divide and Conquer algorithm to solve \"The Skyline Problem\".",
+  "description": "Divide and conquer algorithm to solve \"The Skyline Problem\".",
   "keywords": [
     "skyline",
     "divide",
