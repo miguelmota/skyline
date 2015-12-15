@@ -16,9 +16,9 @@ npm install skyline
 
 # Usage
 
-Input is a squence of building points: left x-coordinate, height y-coordinate, right x-coordinate.
+Input is a squence of building triples: *left x-coordinate*, *height y-coordinate*, *right x-coordinate*.
 
-Output is a sequence of skyline points: left x-coordinate, height y-coordinate;
+Output is a sequence of skyline tuples: *left x-coordinate*, *height y-coordinate*.
 
 ```javascript
 const skyline = require('flowright');
