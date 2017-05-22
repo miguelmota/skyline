@@ -2,11 +2,11 @@
 
 > Divide and conquer algorithm to solve "[The Skyline Problem](http://www.algorithmist.com/index.php/UVa_105)".
 
-[![The Skyline Problem](./demo/skyline.png "The Skyline Problem")](http://lab.moogs.io/skyline)
+[![The Skyline Problem](./demo/skyline.png "The Skyline Problem")](https://lab.miguelmota.com/skyline)
 
 # Demo
 
-[http://lab.moogs.io/skyline](http://lab.moogs.io/skyline)
+[https://lab.miguelmota.com/skyline](https://lab.miguelmota.com/skyline)
 
 # Install
 
